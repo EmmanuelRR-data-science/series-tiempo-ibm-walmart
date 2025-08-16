@@ -86,4 +86,4 @@ Este proyecto realiza un análisis exploratorio de series de tiempo utilizando l
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/proyecto_series_tiempo.git
+git clone https://github.com/EmmanuelRR-data-science/series-tiempo-ibm-walmart
